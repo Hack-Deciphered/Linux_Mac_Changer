@@ -35,8 +35,8 @@ cprint("Owner :> @deciphered_nk -- Telegram ", 'magenta', attrs=['dark'])
 
 print (" ")
 print ("")
-flw_1= " Follow us on YouTube   :-"
-flw_2= " Follow us on Telegram  :-"
+flw_1= " Follow us on YouTube   :- https://www.youtube.com/channel/UCcjlT-dqYMq_y1l1R3d4Oyg "
+flw_2= " Follow us on Telegram  :- @Hack_Deciphered "
 
 cprint(flw_1, 'red', attrs=['bold','blink'])
 cprint(flw_2, 'red', attrs=['bold','blink'])
