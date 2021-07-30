@@ -50,10 +50,11 @@ print("")
 #Mac_Changer
 
 net_intf1="[1] wlan0 (Wireless Connection)"
-net_intf2="[2] eth0 (Wired Coteqnnection)"
+net_intf2="[2] eth0 (Wired Connection)"
 cprint(net_intf1 , attrs=['bold'])
 cprint(net_intf2 , attrs=['bold'])
-
+print("")
+print("")
 
 intf=int(input("Select your Network Interface (1/2) : "))
 
